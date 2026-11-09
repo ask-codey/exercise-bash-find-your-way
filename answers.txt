@@ -1,0 +1,31 @@
+# Exercise: Find Your Way
+#
+# Explore the camp folder with pwd, ls (with -a and -l), cd and Tab, then answer each question
+# on its numbered line, after the ")". Write only the answer, like the example.
+#
+# Example: what is the name of the file in camp that welcomes you?
+# 0) welcome.txt
+
+# 1. The boathouse has a hidden folder. What is the folder's name?
+1)
+
+# 2. What is the name of the file inside that hidden folder?
+2)
+
+# 3. How many files and folders does ls show in camp/cabins/cabin-2?
+3)
+
+# 4. Which file in camp/dining-hall is the biggest? (ls -l shows each file's size.)
+4)
+
+# 5. One of the cabins has a hidden folder. Which cabin? (Write its folder name, such as cabin-1.)
+5)
+
+# 6. What is the name of the file in the folder called arts and crafts?
+6)
+
+# 7. You are in camp. Write a relative path that goes to the pantry in one cd command.
+7)
+
+# 8. You are in camp/cabins/cabin-2. Write a relative path that goes to the boathouse in one cd command.
+8)

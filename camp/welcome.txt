@@ -1,0 +1,7 @@
+Welcome to Pine Lake Summer Camp!
+
+Every place at camp is a folder, and every note is a file.
+Look around with ls, move with cd, and check where you are with pwd.
+Some things at camp are hidden: names that start with a dot.
+
+Have a great summer!
